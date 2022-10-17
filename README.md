@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oebinisa
+- 👋 Hi, I’m Ebinisa
 - 👀 I’m passionate about pancakes and DevOps
 - 📫 I can be reached via o.ebinisa@gmail.com
 
