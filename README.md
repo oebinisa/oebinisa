@@ -4,7 +4,7 @@
 
 ### Some Projects I have Worked On
 - Containerizing a ML MicroService and running it over Kubernetes - [https://github.com/oebinisa/UdaProject4]
-- Terraform Templates for setting up Infrastructure over AWS - [https://github.com/oebinisa/vpc-scripts]
+- CloudFormation Templates for setting up Infrastructure over AWS - [https://github.com/oebinisa/vpc-scripts]
 - Deploy a high-availability web app using CloudFormation - [https://github.com/oebinisa/UdacityDevOpsND-Project2]
 - A Capstone Project for setting up end to end devops pipeline using CircleCI with Prometheus prepared during accomplishing Udacity Cloud DevOps Nanodegree - [https://github.com/oebinisa/cdond-c3-project]
 
