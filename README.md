@@ -30,9 +30,9 @@
 
 ## Project Highlights
 - 📦 ML Microservice Containerization: Containerized applications using Docker and orchestrated with Kubernetes - [GitHub](https://github.com/oebinisa/UdaProject4)
-- 📦 Udacity DevOps Nanodegree Capstone Project: Established CI/CD pipelines on CircleCI, deployed cloud servers with Ansible, and integrated Prometheus for enhanced monitoring - [https://github.com/oebinisa/cdond-c3-project]
-- 📦 Deploy a high-availability web app using CloudFormation - [https://github.com/oebinisa/UdacityDevOpsND-Project2]
+- 📦 Deploy a high-availability web app using CloudFormation - [GitHub](https://github.com/oebinisa/UdacityDevOpsND-Project2)
 - 📦 Deployment of a static webpage using AWS s3 and CloudFront - Github
+- 📦 Udacity DevOps Nanodegree Capstone Project: Established CI/CD pipelines on CircleCI, deployed cloud servers with Ansible, and integrated Prometheus for enhanced monitoring - [GitHub](https://github.com/oebinisa/cdond-c3-project)
 
 ### Certifications
 - 🎖 Cloud DevOps NanoDegree - [Udacity](https://graduation.udacity.com/confirm/U9UDXRZU)
