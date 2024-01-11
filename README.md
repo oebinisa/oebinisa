@@ -39,6 +39,7 @@
 - 🎖 AWS Certified Cloud Practitioner - [AWS](https://www.credly.com/badges/f66534d2-bc68-48fc-afe2-eafd9a6e2ff1/public_url)
 - 🎖 Google Cloud Certified Associate Cloud Engineer - [Google](https://google.accredible.com/5203e5f8-0193-4560-bb04-da5a8b9f48d6)
 - 🎖 Oracle Certified Associate, Java SE 8 Programmer - [Oracle](https://www.credly.com/badges/da3c7ab0-a691-41fc-9135-b6918ec5b399/public_url)
+- 🎖 Oracle PL/SQL Developer Certified Associate - [Oracle](https://www.credly.com/badges/b8e9271a-d914-4bcb-977d-d725452696ca/public_url)
 
 <!---
 oebinisa/oebinisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
